@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/Contact-@tornikegomareli-orange" alt="Twitter: @tornikegomareli" />
     </a>
     <a href="https://www.linkedin.com/in/tornikegomareli/s">
-        <img src="https://img.shields.io/badge/Contact-Linkedin@tornikegomareli-orange" alt="Linkedin: @Linkedin" />
+        <img src="https://img.shields.io/badge/Contact-Linkedin-orange" alt="Linkedin: @Linkedin" />
     </a>
 </p>
 
