@@ -15,7 +15,7 @@
 
 Using a circular buffer as storage, the Deque custom collection type in Swift offers a double-ended queue data structure. At both ends of the queue, it enables efficient insertion and removal operations.
 
-This implementation still requires some performance optimizations, such as lazy resizing and the use of a custom index type to prevent pointless range checks. Although I believe my Medium article, which is the reason for this, is doing its job in this context, I may add more improvements in the future, solely for educational uses.
+This implementation still requires some performance optimizations, such as lazy resizing and the use of a custom index type to prevent pointless range checks. Although I believe it is enough for my Medium article, which is the reason for this, and data structure is doing its job in this context, I may add more improvements in the future, solely for educational uses.
 
 Please refrain from using this data structure in your projects as it is a long way from being ready for production.
 
