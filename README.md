@@ -8,10 +8,6 @@
     <a href="https://twitter.com/tornikegomareli">
         <img src="https://img.shields.io/badge/Contact-@tornikegomareli-orange" alt="Twitter: @tornikegomareli" />
     </a>
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Swift-5.8-brightgreen.svg" />
     <a href="https://www.linkedin.com/in/tornikegomareli/s">
         <img src="https://img.shields.io/badge/Contact-@tornikegomareli-orange" alt="Linkedin: @Linkedin" />
     </a>
