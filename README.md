@@ -8,7 +8,7 @@
     <a href="https://twitter.com/tornikegomareli">
         <img src="https://img.shields.io/badge/Contact-@tornikegomareli-orange" alt="Twitter: @tornikegomareli" />
     </a>
-    <a href="https://www.linkedin.com/in/tornikegomareli/s">
+    <a href="https://www.linkedin.com/in/tornikegomareli/">
         <img src="https://img.shields.io/badge/Contact-Linkedin-orange" alt="Linkedin: @Linkedin" />
     </a>
 </p>
