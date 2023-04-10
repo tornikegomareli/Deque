@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Swift-5.8-brightgreen.svg" />
+    <img src="https://img.shields.io/badge/Swift-5.7-brightgreen.svg" />
     <a href="https://twitter.com/tornikegomareli">
         <img src="https://img.shields.io/badge/Contact-@tornikegomareli-orange" alt="Twitter: @tornikegomareli" />
     </a>
